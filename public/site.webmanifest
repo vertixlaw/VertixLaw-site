@@ -1,0 +1,19 @@
+{
+  "name": "Vertix Law - Segurança jurídica para startups",
+  "short_name": "Vertix Law",
+  "description": "Assessoria jurídica completa para startups. Contratos, societário, LGPD, investimentos e muito mais.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f9fafb",
+  "theme_color": "#3b82f6",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.png",
+      "sizes": "any",
+      "type": "image/png"
+    }
+  ],
+  "categories": ["business", "legal", "productivity"],
+  "lang": "pt-BR"
+}
