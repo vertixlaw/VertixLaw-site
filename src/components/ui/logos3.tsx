@@ -9,6 +9,9 @@ import kvGroupLogo from "../../assets/images/clients/KV GROUP.png";
 import viannaAdvLogo from "../../assets/images/clients/VIANNA ADV.png";
 import facredLogo from "../../assets/images/clients/FACRED.png";
 import facoacontaLogo from "../../assets/images/clients/FAÇOACONTA.png";
+import arrobaInteligenteLogo from "../../assets/images/clients/arroba inteligente.png";
+import econoservLogo from "../../assets/images/clients/econoserv.png";
+import rasferLogo from "../../assets/images/clients/rasfer.png";
 
 import {
   Carousel,
@@ -55,6 +58,24 @@ const Logos3 = ({
       id: "logo-4",
       description: "KV Group",
       image: kvGroupLogo,
+      className: "h-16 w-auto transition-all duration-300",
+    },
+    {
+      id: "logo-5",
+      description: "Arroba Inteligente",
+      image: arrobaInteligenteLogo,
+      className: "h-16 w-auto transition-all duration-300",
+    },
+    {
+      id: "logo-6",
+      description: "Econoserv",
+      image: econoservLogo,
+      className: "h-16 w-auto transition-all duration-300",
+    },
+    {
+      id: "logo-7",
+      description: "Rasfer",
+      image: rasferLogo,
       className: "h-16 w-auto transition-all duration-300",
     },
   ],
