@@ -64,19 +64,19 @@ const Logos3 = ({
       id: "logo-5",
       description: "Arroba Inteligente",
       image: arrobaInteligenteLogo,
-      className: "h-16 w-auto transition-all duration-300",
+      className: "h-32 w-auto transition-all duration-300",
     },
     {
       id: "logo-6",
       description: "Econoserv",
       image: econoservLogo,
-      className: "h-16 w-auto transition-all duration-300",
+      className: "h-32 w-auto transition-all duration-300",
     },
     {
       id: "logo-7",
       description: "Rasfer",
       image: rasferLogo,
-      className: "h-16 w-auto transition-all duration-300",
+      className: "h-32 w-auto transition-all duration-300",
     },
   ],
 }: Logos3Props) => {
@@ -107,7 +107,7 @@ const Logos3 = ({
                     key={`first-${logo.id}`}
                     className="flex basis-1/2 justify-center pl-0 sm:basis-1/3 md:basis-1/4 lg:basis-1/4"
                   >
-                    <div className="mx-8 flex shrink-0 items-center justify-center">
+                    <div className="mx-4 sm:mx-6 lg:mx-8 flex shrink-0 items-center justify-center">
                       <div>
                         <OptimizedImage
                           src={logo.image}
@@ -126,7 +126,7 @@ const Logos3 = ({
                     key={`second-${logo.id}`}
                     className="flex basis-1/2 justify-center pl-0 sm:basis-1/3 md:basis-1/4 lg:basis-1/4"
                   >
-                    <div className="mx-8 flex shrink-0 items-center justify-center">
+                    <div className="mx-4 sm:mx-6 lg:mx-8 flex shrink-0 items-center justify-center">
                       <div>
                         <OptimizedImage
                           src={logo.image}
