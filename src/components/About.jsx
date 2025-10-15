@@ -43,8 +43,7 @@ const About = () => {
             Sobre a <span className="gradient-text">Vertix law</span>
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto leading-relaxed">
-            Somos uma empresa de advocacia moderna, focada em resultados e comprometida com a excelência. 
-            Nossa missão é oferecer soluções jurídicas inovadoras e eficazes para nossos clientes.
+            Somos uma startup jurídica focada em resultados e comprometida com a excelência.
           </p>
         </motion.div>
 
