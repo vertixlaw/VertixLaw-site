@@ -39,9 +39,9 @@ const About = () => {
           viewport={{ once: true }}
           className="text-center mb-16"
         >
-          <h2 className="text-4xl md:text-5xl font-bold text-gray-900 mb-6">
+          <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-6">
             Sobre a <span className="gradient-text">Vertix law</span>
-          </h2>
+          </h1>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto leading-relaxed">
             Somos uma startup jurídica focada em resultados e comprometida com a excelência.
           </p>
