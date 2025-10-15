@@ -83,19 +83,19 @@ const About = () => {
               Nossa História e Missão
             </h3>
             <div className="space-y-4 text-gray-600 leading-relaxed">
+              <h4 className="text-xl font-semibold text-gray-900 mb-4">
+                A Primeira Startup Jurídica do Amazonas
+              </h4>
               <p>
-                Fundada em 2025, a vertix LAW nasceu da visão de revolucionar o mercado jurídico brasileiro, 
-                combinando tradição jurídica com inovação tecnológica. Nossa equipe multidisciplinar trabalha 
-                incansavelmente para oferecer soluções personalizadas e eficazes.
+                Nascemos com um propósito claro: trazer o Direito para o futuro da inovação amazônica.
+                Somos a primeira startup jurídica do Amazonas dedicada a oferecer respaldo jurídico estratégico para startups, empreendedores e negócios de base tecnológica.
               </p>
               <p>
-                Acreditamos que o direito deve ser acessível, transparente e eficiente. Por isso, investimos 
-                constantemente em tecnologia, capacitação e metodologias inovadoras para garantir que nossos 
-                clientes recebam o melhor atendimento possível.
+                Em um ecossistema cada vez mais dinâmico, onde ideias precisam de segurança para crescer, unimos conhecimento jurídico, tecnologia e mentalidade empreendedora para garantir que a inovação avance sem medo.
               </p>
               <p>
-                Nossa missão é ser a ponte entre nossos clientes e a justiça, simplificando e transformando desafios jurídicos 
-                em oportunidades de crescimento e proteção dos direitos.
+                Aqui, o jurídico não é um obstáculo, é uma vantagem competitiva.
+                Apoiamos desde a estruturação da empresa e contratos com investidores até a proteção de propriedade intelectual, conformidade digital e mitigação de riscos regulatórios.
               </p>
             </div>
           </motion.div>
